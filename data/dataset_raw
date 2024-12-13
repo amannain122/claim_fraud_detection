@@ -8,7 +8,7 @@
 @ATTRIBUTE Accomodation_Type {Owned, Rented}
 @ATTRIBUTE Reco_Insurance_Type {Individual, Joint}
 @ATTRIBUTE Is_Spouse {No, Yes}
-@ATTRIBUTE "Health Indicator" {X1, X2, X3, X4, X5, X6, X7, X8, X9}
+@ATTRIBUTE Health Indicator {X1, X2, X3, X4, X5, X6, X7, X8, X9}
 @ATTRIBUTE Holding_Policy_Duration {1.0, 10.0, 11.0, 12.0, 13.0, 14+, 14.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}
 @ATTRIBUTE Holding_Policy_Type {1.0, 2.0, 3.0, 4.0}
 @ATTRIBUTE class INTEGER
